@@ -1,0 +1,14 @@
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\bin\Debug\net8.0\DB.deps.json
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\bin\Debug\net8.0\DB.runtimeconfig.json
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\bin\Debug\net8.0\DB.dll
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\bin\Debug\net8.0\DB.pdb
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.csproj.AssemblyReference.cache
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.AssemblyInfoInputs.cache
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.AssemblyInfo.cs
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.csproj.CoreCompileInputs.cache
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.dll
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\refint\DB.dll
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.pdb
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\DB.genruntimeconfig.cache
+D:\Escritorio\Flutter\APP-PAT\CodeFirst C#\DB\obj\Debug\net8.0\ref\DB.dll
